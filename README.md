@@ -1,4 +1,4 @@
-# Trivia Generator
+# Trivia APP
 
 Este es un proyecto de generador de trivias que utiliza la API de Open Trivia DB para crear trivias personalizadas.
 
@@ -47,6 +47,7 @@ No se requiere instalación. El proyecto se ejecuta en un navegador web.
 5. Utiliza los botones "Siguiente" y "Anterior" para navegar por las preguntas.
 6. Al completar las 10 preguntas, aparecerá un botón "Calcular Puntaje".
 7. Haz clic en "Calcular Puntaje" para ver tu puntaje final.
+
 **Nota:** Este proyecto utiliza [Bootstrap](https://getbootstrap.com/) para el diseño y la maquetación de la interfaz de usuario. Además, utiliza [SweetAlert](https://sweetalert2.github.io/) para mostrar mensajes emergentes interactivos y atractivos. Estas bibliotecas se incluyen automáticamente y no requieren ninguna instalación adicional.
 
 Si deseas obtener más información sobre cómo utilizar Bootstrap y SweetAlert en tus proyectos, consulta la documentación en los enlaces proporcionados.
