@@ -46,7 +46,6 @@ document.addEventListener('DOMContentLoaded', () => {
         .then(response => response.json())
         .then(data => {
             triviaData = data.results;
-            console.log(triviaData);
 
             if (triviaData.length < 10) {
                 // Mostrar una alerta personalizada con SweetAlert2
